@@ -1,0 +1,11 @@
+C:\Users\s210209\Desktop\aie\Pong\AIE_01_RaylibPong\AIE_01_RaylibPong\bin\Debug\netcoreapp3.1\AIE_01_RaylibPong.exe
+C:\Users\s210209\Desktop\aie\Pong\AIE_01_RaylibPong\AIE_01_RaylibPong\bin\Debug\netcoreapp3.1\AIE_01_RaylibPong.deps.json
+C:\Users\s210209\Desktop\aie\Pong\AIE_01_RaylibPong\AIE_01_RaylibPong\bin\Debug\netcoreapp3.1\AIE_01_RaylibPong.runtimeconfig.json
+C:\Users\s210209\Desktop\aie\Pong\AIE_01_RaylibPong\AIE_01_RaylibPong\bin\Debug\netcoreapp3.1\AIE_01_RaylibPong.runtimeconfig.dev.json
+C:\Users\s210209\Desktop\aie\Pong\AIE_01_RaylibPong\AIE_01_RaylibPong\bin\Debug\netcoreapp3.1\AIE_01_RaylibPong.dll
+C:\Users\s210209\Desktop\aie\Pong\AIE_01_RaylibPong\AIE_01_RaylibPong\bin\Debug\netcoreapp3.1\AIE_01_RaylibPong.pdb
+C:\Users\s210209\Desktop\aie\Pong\AIE_01_RaylibPong\AIE_01_RaylibPong\obj\Debug\netcoreapp3.1\AIE_01_RaylibPong.csprojAssemblyReference.cache
+C:\Users\s210209\Desktop\aie\Pong\AIE_01_RaylibPong\AIE_01_RaylibPong\obj\Debug\netcoreapp3.1\AIE_01_RaylibPong.AssemblyInfoInputs.cache
+C:\Users\s210209\Desktop\aie\Pong\AIE_01_RaylibPong\AIE_01_RaylibPong\obj\Debug\netcoreapp3.1\AIE_01_RaylibPong.AssemblyInfo.cs
+C:\Users\s210209\Desktop\aie\Pong\AIE_01_RaylibPong\AIE_01_RaylibPong\obj\Debug\netcoreapp3.1\AIE_01_RaylibPong.dll
+C:\Users\s210209\Desktop\aie\Pong\AIE_01_RaylibPong\AIE_01_RaylibPong\obj\Debug\netcoreapp3.1\AIE_01_RaylibPong.pdb

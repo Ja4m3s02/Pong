@@ -36,7 +36,8 @@ namespace AIE_01_RaylibPong
         void RunProgram()
         {
 
-                    Raylib.InitWindow(windowWidth, windowHeight, "Pong");
+            Raylib.InitWindow(windowWidth, windowHeight, "Pong");
+            Raylib.SetTargetFPS(60);
 
             LoadGame();
 
@@ -70,7 +71,8 @@ namespace AIE_01_RaylibPong
 
         void Update()
         {
-
+            ball.pos.X += ball.dir.X * ball.speed;
+            ball.pos.Y += ball.dir.Y * ball.speed;
         }
 
         void Draw()
@@ -81,6 +83,8 @@ namespace AIE_01_RaylibPong
 
             Raylib.DrawCircle((int)ball.pos.X, (int)ball.pos.Y, ball.radius, Color.RAYWHITE);
 
+
+            Raylib.DrawFPS(10, 10);
 
             Raylib.EndDrawing();
 
